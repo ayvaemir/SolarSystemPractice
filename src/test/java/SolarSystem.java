@@ -10,6 +10,10 @@ public class SolarSystem {
         BB.Stars="10";
         BB.Sun="1";
 
+        Sun exosias=new Sun();
+        exosias.color="grey";
+        exosias.temp="-54";
+
         System.out.println("Solar System is ready");
 
 
